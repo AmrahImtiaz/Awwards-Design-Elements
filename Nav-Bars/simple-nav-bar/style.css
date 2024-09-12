@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.navbar{
+    background: #3B2559;
+    font-family: 'Varela Round', 'poppins', sans-serif;
+    padding: 15px
+}
+
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.logo a{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin-right:30px ;
+}
+
+li a{
+    color: white;
+    
+}   
+
+li a:hover{
+    color: rgb(255, 118, 171);
+}   
+
+
